@@ -1,0 +1,8 @@
+const { configs } = require("eslint-plugin-prettier");
+
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+*
